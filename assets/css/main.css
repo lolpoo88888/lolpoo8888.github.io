@@ -2872,6 +2872,10 @@
 
 /* Intro */
 
+	#welcome {
+	font-family: 'Press Start 2P', cursive;	
+	}
+
 	#intro {
 		background: url("images/overlay.png"), url("http://img00.deviantart.net/864e/i/2014/226/d/3/battlefield_3_wallpaper__hd_quality__by_freakart_by_freak4rt-d7v3whr.jpg");
 		background-size: 256px 256px, cover;
